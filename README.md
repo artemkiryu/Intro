@@ -1,5 +1,5 @@
-### Hi there 👋
-#🔭 I’m currently working on extending my current library.
+### Hi there, 👋
+#🔭 I’m currently working on extending my current library. Prior to this, I contributed to a private workspace. Thank you!
 <!--
 **artemkiryu/artemkiryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
